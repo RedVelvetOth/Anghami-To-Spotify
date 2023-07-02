@@ -42,7 +42,7 @@ Additionally, make sure to install the required dependencies.
 
 8. After opening the http://127.0.0.1:5000/redirect you'll a code will be displayed, copy its value.
 
-9. Navigate to the `get_token()` function and replace the code value in the data dictionary with the one copied.
+9. Navigate to the `get_token()` function  in `main.py` and replace the code value in the data dictionary with the one copied.
 
 10. Voila! Your playlists are getting migrated.
 
